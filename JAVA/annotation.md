@@ -72,3 +72,40 @@ public @interface AnnotationName {
 ~~~
 
 ## 어노테이션 적용 대상
+| ElementType 열거 상수 | 적용 대상 |
+|:--------------------|:--------|
+|TYPE|클래스, 인터페이스, 열거 타입|
+|ANNOTATION_TYEP|어노테이션|
+|FIELD|필드|
+|CONSTRUCTOR|생성자|
+|METHOD|메소드|
+|LOCAL_VARIABLE|로컬 변수|
+|PACKAGE|패키지|
+
+어노테이션이 적용될 대상을 지정할 때에는 @Target 어노테이션을 사용한다. @Target의 기본 엘리먼트인 value는 ElementType 배열을 값으로 가진다. 이것은 어노테이션이 적용될 대상을 복수개로 지정하기 위해서이다.
+
+예를 들어 다름과 같이 어노테이션을 정의한다면
+~~~Java
+@Target({ElementType.TYPE, ElementType.FIELD, ElementType.METHOD})
+public @interface AnnotationName {
+}
+~~~
+
+클래스, 필드, 메소드에만 어노테이션을 적용할 수 있고 생성자는 적용할 수 없다.
+~~~Java
+@AnnotationName
+public class ClassName {
+  @AnnotationName
+  private String fieldName;
+
+  //@AnnotationName <--- @Target에 CONSTRUCT가 없기 때문에 사용할 수 없다.
+  public ClassName() {
+  }
+
+  @AnnotationName
+  public void methodName() {
+  }
+}
+~~~
+
+## 어노테이션 유지 정책
