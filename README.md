@@ -6,6 +6,18 @@
 - [ ] 공부시간 4시간 유지해보기
 - [ ] 남는 시간은 코드짜기
 
+#### 11월 27일 수
+##### 공부
+- 객체지향의 사실과 오해 - [3장 정리](https://www.notion.so/nokchax/3-92986c00cfa542e9a41072636b60e9a8)
+- TIL md 파일 관리방식 변경
+    - intellij, paste images into markdown 플러그인 사용
+- leetcode [문제](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) & [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q01263/Solution.java) 
+- escape api 기능 추가
+    - /pr 호출시 문제 난이도 및 문제 페이지 링크 추가
+##### todo
+- DDD 같이 진행할 팀원 구하기 (리뷰 주고받기)
+- 기술 블로그 만들어볼까
+
 #### 11월 26일 화
 ##### 공부
 - 객체지향의 사실과 오해 - 3장 복습
