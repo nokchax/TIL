@@ -1,4 +1,26 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
+## 12월 첫째 주(2~6)
+### 주간목표
+- [ ] DDD 1주차 - JUnit5 & Racing car
+- [ ] 객체지향의 사실과 오해 4장
+- [ ] escapeApi에 selenium 적용하기
+
+#### 12월 2일 월
+- 알고리즘 문제 풀이 - [링크](https://github.com/nokchax/leetcode/blob/d5685a5cec72bf8f7f7110e1d39e02c5587c2e09/src/leetcode/Q00023/Solution.java)
+- DDD 1주차 시작
+    - JUnit5 학습 - [링크](https://github.com/nokchax/ddd-kitchenpos/blob/1st-week/study/1st-week/junit5.md)
+    - Parameterized Tests 학습 - [링크](https://github.com/nokchax/ddd-kitchenpos/blob/1st-week/study/1st-week/parameterized-test.md)
+- Selenium을 이용한 leetcode 로그인 및 api 크롤 test 완료
+
+#### 지난주 회고
+- 4시간 불가 너무 힘듦 -> 3.5시간
+- 저번주도 사실상 많이 하지는 못함. 반성!
+- 아메리카노 없이 버틸수 없는 몸이 되어버렸다...
+- 정리하는 습관 들이기
+- 밥 잘먹고 다니기, 간식 잘먹
+- 블로그 시작해보
+
+
 ## 11월 넷째 주(25~29)
 ### 주간목표
 - [ ] 인사이드 자바스크립트 3장
