@@ -3,7 +3,14 @@
 ### 주간목표
 - [ ] DDD 1주차 - JUnit5 & Racing car
 - [ ] 객체지향의 사실과 오해 4장
-- [ ] escapeApi에 selenium 적용하기
+- [ ] escapeApi에 selenium 적용하기작
+
+#### 12월 3일 화
+- DDD 1주차
+    - step0 - racing car 완료
+    - step1 - string calculator 완료
+    - code review 요청 [링크](https://github.com/nokchax/ddd-kitchenpos/pull/2)
+- escape api에 selenium 코드 적용 시작
 
 #### 12월 2일 월
 - 알고리즘 문제 풀이 - [링크](https://github.com/nokchax/leetcode/blob/d5685a5cec72bf8f7f7110e1d39e02c5587c2e09/src/leetcode/Q00023/Solution.java)
