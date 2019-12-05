@@ -1,9 +1,17 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 ## 12월 첫째 주(2~6)
 ### 주간목표
-- [ ] DDD 1주차 - JUnit5 & Racing car
+- [x] DDD 1주차 - JUnit5 & Racing car
 - [ ] 객체지향의 사실과 오해 4장
-- [ ] escapeApi에 selenium 적용하기작
+- [ ] escapeApi에 selenium 적용하기
+
+#### 12월 5일 목
+- DDD 1주차 코드리뷰 완료
+- 객체지향의 사실과 오해 4장 독
+
+#### 12월 4일 수
+- 약속
+- DDD 1주차 코드리뷰
 
 #### 12월 3일 화
 - DDD 1주차
