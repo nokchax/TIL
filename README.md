@@ -3,6 +3,10 @@
 - [ ] DDD 2주차
 - [ ] 객체지향의 사실과 오해 4장
 - [ ] escapeApi selenium 적용
+
+#### 12월 10일 화
+- escapeApi selenium 적용ing
+
 #### 12월 9일 월
 - escapeApi 버그 수정
 - recaptcha를 벗어나기 위한 selenium 테스트
