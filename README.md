@@ -4,6 +4,9 @@
 - [ ] 객체지향의 사실과 오해 4장
 - [ ] escapeApi selenium 적용
 
+#### 12월 11일 수
+- escapeApi selenium 적용버전 배포 but 실행 오류...
+
 #### 12월 10일 화
 - escapeApi selenium 적용ing
 
