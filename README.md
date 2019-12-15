@@ -4,6 +4,16 @@
 - [ ] 객체지향의 사실과 오해 4장
 - [ ] escapeApi selenium 적용
 
+#### 12월 15일 일
+- leetcode 알고리즘 [문제](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) - [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00297/Codec.java)
+- DDD 2주차
+
+#### 12월 13일 금
+- 약속
+
+#### 12월 12일 목
+- 나이브스 아웃 관람 gooood
+
 #### 12월 11일 수
 - escapeApi selenium 적용버전 배포 but 실행 오류...
 
