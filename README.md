@@ -5,8 +5,12 @@
 - [ ] 객체지향의 사실과 오해 4장..
 - [ ] escapeApi selenium 적용
 
+#### 12월 17일 화
+- 객체지향의 사실과 오해 4장 1회독
+- selenium 크롬 드라이버 테스트
+
 #### 12월 16일 월
-- linux환경에서 selenium chrome driver로 크롤 성공.. 이제 진짜 적용
+- linux 환경에서 selenium chrome driver로 크롤 성공.. 이제 진짜 적용
 - 당산역 커피랑 도서관 등록
 
 ## 12월 둘째 주(9~13)
