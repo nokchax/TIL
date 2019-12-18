@@ -5,6 +5,9 @@
 - [ ] 객체지향의 사실과 오해 4장..
 - [ ] escapeApi selenium 적용
 
+#### 12울 18일 수
+- jar파일 내부에 존재하는 chrome driver를 로드할 수 있도록 selenium customize
+
 #### 12월 17일 화
 - 객체지향의 사실과 오해 4장 1회독
 - selenium 크롬 드라이버 테스트
