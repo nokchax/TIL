@@ -2,8 +2,11 @@
 
 ## 12월 셋째 주(16~20)
 - [ ] leetcode 알고리즘 풀이
-- [ ] 객체지향의 사실과 오해 4장..
-- [ ] escapeApi selenium 적용
+- [x] 객체지향의 사실과 오해 4장..
+- [x] escapeApi selenium 적용
+
+#### 12월 19일 목
+- selenium escapeApi에 적용 완
 
 #### 12울 18일 수
 - jar파일 내부에 존재하는 chrome driver를 로드할 수 있도록 selenium customize
