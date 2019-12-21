@@ -1,12 +1,16 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 
 ## 12월 셋째 주(16~20)
-- [ ] leetcode 알고리즘 풀이
+- [x] leetcode 알고리즘 풀이
 - [x] 객체지향의 사실과 오해 4장..
 - [x] escapeApi selenium 적용
 
+#### 12월 20일 금
+- leetcode 알고리즘 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00025/Solution.java)
+- 먹짱모임
+
 #### 12월 19일 목
-- selenium escapeApi에 적용 완
+- selenium escapeApi에 적용 완료
 
 #### 12울 18일 수
 - jar파일 내부에 존재하는 chrome driver를 로드할 수 있도록 selenium customize
