@@ -1,5 +1,14 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 
+
+## 12월 넷째 주(23~27)
+- [x] leetcode 알고리즘 풀이
+- [ ] 객체지향의 사실과 오해 5장
+- [ ] escapeApi 코드 리팩토링
+
+#### 12월 23일 월
+- leetcode 알고리즘 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00032/Solution.java)
+
 ## 12월 셋째 주(16~20)
 - [x] leetcode 알고리즘 풀이
 - [x] 객체지향의 사실과 오해 4장..
