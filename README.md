@@ -6,6 +6,9 @@
 - [ ] 객체지향의 사실과 오해 5장
 - [ ] escapeApi 코드 리팩토링
 
+#### 12월 25일 수
+- escape api json형식의 파일을 가지고 사용자 데이터 업데이트가 가능하도록 업데이트
+
 #### 12월 23일 월
 - leetcode 알고리즘 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00032/Solution.java)
 
