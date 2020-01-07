@@ -6,6 +6,10 @@
 - [ ] TDD 1주차 (1/2) 진행
 - [ ] 계획 세우기
 
+#### 1월 7일 화
+- TDD 그룹스터디 진행 문서 제작
+  - 1월 8일 ~ 3월 중순까지 TDD 진행 목
+
 #### 1월 6일 월
 - leetcode 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q01284/SolutionUsingBitOperation.java)
 - escape api 코드 수정
