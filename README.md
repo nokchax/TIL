@@ -1,6 +1,17 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 - [2019 archive](https://github.com/nokchax/TIL/blob/master/archive/2019.md)
 
+## 1월 셋째 주(13~17)
+- [x] 알고리즘 문제 풀이
+- [ ] TDD 1주차 진행
+- [ ] 기술 관련 책 읽기
+
+#### 1월 13일 월
+- 문자열 계산기 리뷰
+- 알고리즘 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00895/FreqStack.java)
+- 한해의 대략적 계획 세우기인
+- 장염으로 빠른 휴식
+
 ## 1월 둘째 주(6~10)
 - [x] 알고리즘 문제 풀이
 - [x] TDD 1주차 (1/2) 진행
@@ -13,7 +24,7 @@
 - TDD 팀원 코드 리뷰
 
 #### 1월 9일 목
-- 몸살감기로 기절
+- ~~몸살감기~~ 장염으로 기절
 
 #### 1월 8일 수
 - TDD StringCalculator 코드 구현
