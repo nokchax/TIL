@@ -5,6 +5,13 @@
 - [x] 알고리즘 문제 풀이
 - [ ] TDD 1주차 진행 계속
 - [ ] 기술 관련 책 읽기
+
+#### 1월 22일 수
+- TDD racing car step2 review
+
+#### 1월 21일 화
+- TDD racing car step2 pr
+
 #### 1월 20일 월
 - 알고리즘 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00778/Solution.java)
 - TDD racing car step2
