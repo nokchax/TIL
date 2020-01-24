@@ -6,6 +6,12 @@
 - [ ] TDD 1주차 진행 계속
 - [ ] 기술 관련 책 읽기
 
+#### 1월 24일 금
+- 연휴ing
+
+#### 1월 23일 목
+- escape api refactoring
+
 #### 1월 22일 수
 - TDD racing car step2 review
 
