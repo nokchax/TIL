@@ -1,6 +1,18 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 - [2019 archive](https://github.com/nokchax/TIL/blob/master/archive/2019.md)
 
+## 1월 다섯째 주(27~31)
+- [x] 알고리즘 문제 풀이
+- [ ] TDD Racing Car step2&3
+- [ ] 기술 관련 책 읽기
+
+#### 1월 28일 화
+- TDD racing car step2 리뷰 계속
+- 알고리즘 문제 최적화
+
+#### 1월 27일 월
+- 알고리즘 문제 풀이
+
 ## 1월 넷째 주(20~23)
 - [x] 알고리즘 문제 풀이
 - [ ] TDD 1주차 진행 계속
