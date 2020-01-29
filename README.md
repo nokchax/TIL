@@ -6,12 +6,15 @@
 - [ ] TDD Racing Car step2&3
 - [ ] 기술 관련 책 읽기
 
+#### 1월 29일 수
+- TDD racing car step2 리뷰 반영
+
 #### 1월 28일 화
 - TDD racing car step2 리뷰 계속
-- 알고리즘 문제 최적화
+- 알고리즘 문제 [최적화](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00051/Solution.java)
 
 #### 1월 27일 월
-- 알고리즘 문제 풀이
+- 알고리즘 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00051/Solution.java)
 
 ## 1월 넷째 주(20~23)
 - [x] 알고리즘 문제 풀이
