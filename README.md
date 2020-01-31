@@ -3,8 +3,13 @@
 
 ## 1월 다섯째 주(27~31)
 - [x] 알고리즘 문제 풀이
-- [ ] TDD Racing Car step2&3
+- [x] TDD Racing Car step2&3
 - [ ] 기술 관련 책 읽기
+#### 1월 31일 금
+- 휴식
+
+#### 1월 30일 목
+- escape api 수정
 
 #### 1월 29일 수
 - TDD racing car step2 리뷰 반영
