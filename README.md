@@ -1,6 +1,14 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 - [2019 archive](https://github.com/nokchax/TIL/blob/master/archive/2019.md)
 
+## 2월 첫째 주(3~7)
+- [x] 알고리즘 문제 풀이
+- [ ] TDD Racing Car step3
+
+#### 2월 3일 월
+- 알고리즘 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00732/MyCalendarThree.java)
+- TDD racing car step3 구현 및 pr 완료
+
 ## 1월 다섯째 주(27~31)
 - [x] 알고리즘 문제 풀이
 - [x] TDD Racing Car step2&3
