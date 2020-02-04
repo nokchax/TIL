@@ -4,6 +4,12 @@
 ## 2월 첫째 주(3~7)
 - [x] 알고리즘 문제 풀이
 - [ ] TDD Racing Car step3
+- [x] escape api refactoring
+
+#### 2월 4일 화
+- start escape api refactoring
+    - load properties using ConfigurationProperties annotation
+    - start write test code
 
 #### 2월 3일 월
 - 알고리즘 문제 [풀이](https://github.com/nokchax/leetcode/blob/master/src/leetcode/Q00732/MyCalendarThree.java)
