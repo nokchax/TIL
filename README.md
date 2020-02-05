@@ -3,8 +3,11 @@
 
 ## 2월 첫째 주(3~7)
 - [x] 알고리즘 문제 풀이
-- [ ] TDD Racing Car step3
+- [x] TDD Racing Car step3
 - [x] escape api refactoring
+
+#### 2월 5일 수
+- code review racing car
 
 #### 2월 4일 화
 - start escape api refactoring
