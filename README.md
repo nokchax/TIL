@@ -6,6 +6,9 @@
 - [x] TDD Racing Car step3
 - [x] escape api refactoring
 
+#### 2월 6일 목
+- escape api bug fix
+
 #### 2월 5일 수
 - code review racing car
 
