@@ -3,8 +3,12 @@
 
 ## 2월 둘째 주(10~13)
 - [x] 알고리즘 문제 풀이
-- [ ] TDD Racing Car feedback
+- [x] TDD Racing Car feedback
+- [ ] Lotto step01
 - [ ] escape api refactoring
+
+#### 2월 12일 수
+- lotto step01 start
 
 #### 2월 11일 화
 - remind racing car & comment about feedback
