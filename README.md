@@ -5,7 +5,10 @@
 - [x] 알고리즘 문제 풀이
 - [x] TDD Racing Car feedback
 - [ ] Lotto step01
-- [ ] escape api refactoring
+- [x] escape api refactoring
+
+#### 2월 13일 목
+- escape api refactoring
 
 #### 2월 12일 수
 - lotto step01 start
