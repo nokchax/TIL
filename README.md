@@ -1,10 +1,15 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 - [2019 archive](https://github.com/nokchax/TIL/blob/master/archive/2019.md)
 
+## 2월 셋째 주(17~20)
+- [ ] 알고리즘 문제 풀이
+- [ ] TDD lotto step02
+- [ ] escape api refactoring
+
 ## 2월 둘째 주(10~13)
 - [x] 알고리즘 문제 풀이
 - [x] TDD Racing Car feedback
-- [ ] Lotto step01
+- [x] Lotto step01
 - [x] escape api refactoring
 
 #### 2월 13일 목
