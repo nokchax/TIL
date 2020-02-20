@@ -4,7 +4,7 @@
 ## 2월 셋째 주(17~20)
 - [ ] 알고리즘 문제 풀이
 - [ ] TDD lotto step02
-- [ ] escape api refactoring
+- [x] escape api refactoring
 
 ## 2월 둘째 주(10~13)
 - [x] 알고리즘 문제 풀이
