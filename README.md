@@ -1,6 +1,12 @@
 # TIL 오늘은 무얼 했나 기록하고 반성하기 위함
 - [2019 archive](https://github.com/nokchax/TIL/blob/master/archive/2019.md)
 
+## 3월 첫째 주(2~6)
+- [x] algorithm problem solve
+- [x] TDD lotto step03
+- [ ] TDD lotto step03 review
+- [ ] escape api refactoring
+
 ## 2월 셋째 주(17~20)
 - [x] 알고리즘 문제 풀이
 - [x] TDD lotto step02
