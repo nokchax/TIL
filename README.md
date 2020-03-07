@@ -4,7 +4,7 @@
 ## 3월 첫째 주(2~6)
 - [x] algorithm problem solve
 - [x] TDD lotto step03
-- [ ] TDD lotto step03 review
+- [x] TDD lotto step03 review
 - [ ] escape api refactoring
 
 ## 2월 셋째 주(17~20)
