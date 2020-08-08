@@ -5,4 +5,4 @@
 # 3/4 분기
 ## 8월 첫째 주(2~8)
 - [x] algorithm solve
-- blog posting
+- [ ] blog posting
