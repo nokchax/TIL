@@ -3,6 +3,10 @@
 - [2020 1/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2020-first-quarter.md)
 
 # 3/4 분기
+## 8월 넷째 주 (23~30)
+업무 마무리 단계, 마무리에 집중하기
+- [x] 알고리즘 풀이
+
 ## 8월 셋째 주(17~23)
 - [x] 알고리즘 풀이
 - [x] 스프링 부트와 AWS로 혼자 시작하는 웹 서비스 50%
