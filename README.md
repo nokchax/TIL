@@ -3,6 +3,11 @@
 - [2020 1/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2020-first-quarter.md)
 
 # 3/4 분기
+## 9월 첫째 주 (31~6)
+업무 마무리 단계, 마무리에 집중하기
+- [ ] 알고리즘 풀이
+
+# 3/4 분기
 ## 8월 넷째 주 (23~30)
 업무 마무리 단계, 마무리에 집중하기
 - [x] 알고리즘 풀이
