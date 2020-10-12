@@ -7,6 +7,6 @@
 
 # 4/4 분기
 ## 10월 둘째 주 (12~18)
-- [ ] 알고리즘 스터디 재시작 (leetcode)
+- [x] 알고리즘 스터디 재시작 (leetcode)
 - [ ] 이력서 정리
 - [ ] spring security에 tiwtter 적용하기 샘플 정리
