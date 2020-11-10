@@ -20,7 +20,7 @@
 
 
 ## Aerospike 용어 정리
-Aerospike 에서 사용하는 용어를 일반적인 관계형 DB와 비교하면 아래 테이블과 같다.
+AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으로 설계되어 있다. Aerospike 에서 사용하는 용어를 일반적인 관계형 DB와 비교하면 아래 테이블과 같다. 다만 스키마리스이므로 사전에 정의할 필요가 없다.
 
 |Aerospike|RDBMS|
 |---|---|
@@ -29,3 +29,10 @@ Aerospike 에서 사용하는 용어를 일반적인 관계형 DB와 비교하�
 |records|rows|
 |bins|column|
  
+- bin의 타입으로는 integer, string, blob, list, map을 저장가능하다.
+- 배치로 READ 하는 것이 가능하며, 이 배치 작업은 직렬, 병렬로 처리가 가능하다. (Policy로 정할 수 있음)
+
+## 커뮤니티 버전의 Aerospike 단점
+- 5TB 까지 밖에 데이터를 저장할 수 없다.
+- 클러스터 사이즈 5.x 버전 이상부터는 8대 까지만 가능하다. 엔터프라이즈 버전에서는 256대 까지 가능.
+- [참고 known limitation](https://www.aerospike.com/docs/guide/limitations.html)
