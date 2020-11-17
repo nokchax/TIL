@@ -15,6 +15,7 @@
   - 이 계층은 빠른 검색을 위해 DRAM과 SSD에 데이터를 안정적으로 저장하는 역할을 한다.
 
 ## Client layer
+- Aerospike API와 client-server 프로토콜을 구현하였으며, 클러스터와 직접적으로 통신
 
 
 
