@@ -16,6 +16,9 @@
 
 ## Client layer
 - Aerospike API와 client-server 프로토콜을 구현하였으며, 클러스터와 직접적으로 통신
+- 노드를 추적하고 데이터가 어디에 저장되어 있는지 알고 있으며, 클러스터 구성 변경, 노드의 추가 제거등을 즉각적으로 파악한다.
+- 효율을 위해 TCP/IP 커넥션 풀을 구현하고 있으며, Also detects transaction failures that have not risen to the level of node failures in the cluster and re-routes those transactions to nodes with copies of the data.
+- 데이터를 노드에 직접 요청을 보내고, 필요에 따라 재요청, 재라우팅을 시도합니다. (i.g. 클러스터 재구성중일 때)
 
 
 
