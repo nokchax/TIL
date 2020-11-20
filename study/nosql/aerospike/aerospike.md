@@ -1,4 +1,19 @@
 # Aerospike
+## Key Features
+### 강력한 일관성
+데이터 손실이 없다. 까다로운 정확성 환경 위한 장치 지원.
+
+### 압축
+기록되는 레코드에 무손실 압축을 지원.
+
+### 하이브리드 메모리 아키텍쳐
+전통적인 인메모리, 독자적인 하이브리드 메모리, 혹은 올 플래시·스토리지 아키텍쳐 등, 요구되는 퍼포먼스나 데이터 규모에 최적인 스토리지에 데이터를 보존.
+
+
+
+
+
+
 ## Overview
 에어로스파이크는 확장가능한 분산형 데이터베이스로, 아키텍쳐는 3개의 핵심 목표가 있다.
 
@@ -13,6 +28,7 @@
   - 이 계층은 클러스터 통신을 관리하고 장애 복구(fail-over), 리플리케이션, XDR(Cross-Datacenter Replication), 리밸런싱 그리고 데이터 마이그레이션을 자동화 한다.
 - Data storage layer
   - 이 계층은 빠른 검색을 위해 DRAM과 SSD에 데이터를 안정적으로 저장하는 역할을 한다.
+  
 
 ## Client layer
 - Aerospike API와 client-server 프로토콜을 구현하였으며, 클러스터와 직접적으로 통신
@@ -40,3 +56,6 @@ AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으�
 - 5TB 까지 밖에 데이터를 저장할 수 없다.
 - 클러스터 사이즈 5.x 버전 이상부터는 8대 까지만 가능하다. 엔터프라이즈 버전에서는 256대 까지 가능.
 - [참고 known limitation](https://www.aerospike.com/docs/guide/limitations.html)
+- [enterprise 와 community 버전의 차이] (https://www.aerospike.com/products/product-matrix/)
+
+
