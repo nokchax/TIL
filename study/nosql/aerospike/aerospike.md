@@ -9,11 +9,6 @@
 ### 하이브리드 메모리 아키텍쳐
 전통적인 인메모리, 독자적인 하이브리드 메모리, 혹은 올 플래시·스토리지 아키텍쳐 등, 요구되는 퍼포먼스나 데이터 규모에 최적인 스토리지에 데이터를 보존.
 
-
-
-
-
-
 ## Overview
 에어로스파이크는 확장가능한 분산형 데이터베이스로, 아키텍쳐는 3개의 핵심 목표가 있다.
 
@@ -36,9 +31,6 @@
 - 효율을 위해 TCP/IP 커넥션 풀을 구현하고 있으며, Also detects transaction failures that have not risen to the level of node failures in the cluster and re-routes those transactions to nodes with copies of the data.
 - 데이터를 노드에 직접 요청을 보내고, 필요에 따라 재요청, 재라우팅을 시도합니다. (i.g. 클러스터 재구성중일 때)
 
-
-
-
 ## Aerospike 용어 정리
 AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으로 설계되어 있다. Aerospike 에서 사용하는 용어를 일반적인 관계형 DB와 비교하면 아래 테이블과 같다. 다만 스키마리스이므로 사전에 정의할 필요가 없다.
 
@@ -52,10 +44,8 @@ AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으�
 - bin의 타입으로는 integer, string, blob, list, map을 저장가능하다.
 - 배치로 READ 하는 것이 가능하며, 이 배치 작업은 직렬, 병렬로 처리가 가능하다. (Policy로 정할 수 있음)
 
-## 커뮤니티 버전의 Aerospike 단점
+## 커뮤니티 버전 Aerospike 제약
 - 5TB 까지 밖에 데이터를 저장할 수 없다.
 - 클러스터 사이즈 5.x 버전 이상부터는 8대 까지만 가능하다. 엔터프라이즈 버전에서는 256대 까지 가능.
 - [참고 known limitation](https://www.aerospike.com/docs/guide/limitations.html)
-- [enterprise 와 community 버전의 차이] (https://www.aerospike.com/products/product-matrix/)
-
-
+- [enterprise 와 community 버전의 차이](https://www.aerospike.com/products/product-matrix/)
