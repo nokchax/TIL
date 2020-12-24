@@ -1,5 +1,6 @@
 # Aerospike
 Aerospike 란 플래시에(SSD) 최적화 된 인 메모리 NoSQL Database.
+
 ## Key Features
 ### 강력한 일관성
 데이터 손실이 없다. 까다로운 정확성 환경 위한 장치 지원.
@@ -23,7 +24,7 @@ Aerospike 란 플래시에(SSD) 최적화 된 인 메모리 NoSQL Database.
 - Clustering and Data distribution layer
   - 이 계층은 클러스터 통신을 관리하고 장애 복구(fail-over), 리플리케이션, XDR(Cross-Datacenter Replication), 리밸런싱 그리고 데이터 마이그레이션을 자동화 한다.
 - Data storage layer
-  - 이 계층은 빠른 검색을 위해 DRAM과 SSD에 데이터를 안정적으로 저장하는 역할을 한다.
+  - 이 계층은 빠른 탐색을 위해 DRAM과 SSD에 데이터를 안정적으로 저장하는 역할을 한다.
   
 
 ## Client layer
@@ -31,6 +32,11 @@ Aerospike 란 플래시에(SSD) 최적화 된 인 메모리 NoSQL Database.
 - 노드를 추적하고 데이터가 어디에 저장되어 있는지 알고 있으며, 클러스터 구성 변경, 노드의 추가 제거등을 즉각적으로 파악한다.
 - 효율을 위해 TCP/IP 커넥션 풀을 구현하고 있으며, 클러스터 내부에 존재하는 노드 실패 수준이 아닌 트랜젝션 실패를 탐지하고 데이터의 카피본이 존재하는 노드에 재라우트 시킨다.
 - 데이터를 노드에 직접 요청을 보내고, 필요에 따라 재요청, 재라우팅을 시도합니다. (i.g. 클러스터 재구성중일 때)
+
+구조의 특징
+- 이러한 구조는 트랜잭션 지연을 줄이고, 클러스터의 업무 없애고(부담을 줄이고?), 개발자가 해야할 작업을 제거합니다. 
+- 노드가 추가되고 제거되더라도 애플리케이션을 재시작할 필요 없게 만들어줍니다.
+- 클러스터를 구성하거나 클러스터 관리 서버나 프록시를 추가하는데 시간을 낭비하지 않아도 됩니다.
 
 ## Aerospike 용어 정리
 AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으로 설계되어 있다. Aerospike 에서 사용하는 용어를 일반적인 관계형 DB와 비교하면 아래 테이블과 같다. 다만 스키마리스이므로 사전에 정의할 필요가 없다.
@@ -42,7 +48,7 @@ AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으�
 |records|rows|
 |bins|column|
  
-- bin의 타입으로는 integer, string, blob, list, map을 저장가능하다.
+- bin의 타입으로는 integer, string, blob, list, map을 저장 가능하다.
 - 배치로 READ 하는 것이 가능하며, 이 배치 작업은 직렬, 병렬로 처리가 가능하다. (Policy로 정할 수 있음)
 
 ## 커뮤니티 버전 Aerospike 제약
@@ -50,3 +56,5 @@ AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으�
 - 클러스터 사이즈 5.x 버전 이상부터는 8대 까지만 가능하다. 엔터프라이즈 버전에서는 256대 까지 가능.
 - [참고 known limitation](https://www.aerospike.com/docs/guide/limitations.html)
 - [enterprise 와 community 버전의 차이](https://www.aerospike.com/products/product-matrix/)
+
+
