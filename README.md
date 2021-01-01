@@ -3,3 +3,9 @@
 - [2020 archive](https://github.com/nokchax/TIL/blob/master/archive/2020.md)
 
 ---
+# 1/4 분기
+
+## 1월 첫째 주 (1~9)
+### todo
+[ ] 한해 계획 세우기
+[ ] 회사 업무 마무리
