@@ -1,6 +1,9 @@
 # Aerospike
 Aerospike 란 플래시에(SSD) 최적화 된 인 메모리 NoSQL Database.
 
+# Spring Data Aerospike
+[Getting Started](https://github.com/nokchax/spring-data-aerospike)
+
 ## Key Features
 ### 강력한 일관성
 데이터 손실이 없다. 까다로운 정확성 환경 위한 장치 지원.
