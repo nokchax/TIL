@@ -20,3 +20,36 @@
 - 성공적으로 수행된 트랜잭션은 영원히 반영되어야 함을 의미한다.
 
 ## 격리레벨
+한 트랜잭션에서 데이터의 상태를 변경했을 떄, 동시에 실행되는 다른 트랜젝션에 변경된 상태를 공유할지 말지 또, 공유를 한다면 어느정도 수준까지 공유할 지를 설정하는 것.
+
+### Dirty read
+commit 을 하지 않더라도 다른 트랜잭션에 영향을 미침
+
+### NonRepeatable read
+update, delete 쿼리의 경우 commit 을 한 이후에 다른 트랜잭션에 영향을 미침
+
+### Phantom read
+insert 쿼리의 경우 commit 을 한 이후 다른 트랜젝션에 영향을 미침
+
+
+|Isolation level|Dirty read|NonRepeatable read|Phantom read|
+|---|:---:|:---:|:---:|
+|Read uncommitted|O|O|O|
+|Read committed|X|O|O|
+|Repeatable read|X|X|O|
+|Serializable|X|X|X|
+
+디폴트는 read committed 이며, MySQL 에서는 Repeatable read 가 디폴트다.
+
+### 정리
+#### Read uncommitted
+다른 트랜잭션에서 커밋하지 않더라도 그 결과가 반영되어 조회가 가능하다.
+
+#### Read committed
+다른 트랜잭션에서 insert, update, delete 한 건에 대해 커밋한 경우에만 조회가 가능하다.
+
+#### Repeatable read
+다른 트랜잭션에서 insert 하고 커밋한 경우에만 조회 가능
+
+#### Serializable
+다른 트랜잭션에서 무얼하던 조회 할 수 없다. 하나의 트랜잭션이 완료된 이후 다른 트랜잭션이 실행하는 것처럼 지원하며, 높은 비용을 요구한다.
