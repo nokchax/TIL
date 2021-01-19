@@ -51,7 +51,7 @@ AS는 key-value in-memory 저장소로 전통적인 RDB와 비슷한 개념으�
 |records|rows|
 |bins|column|
  
-- bin의 타입으로는 integer, string, blob, list, map을 저장 가능하다.
+- bin의 타입으로는 integer, string, blob, list, map 저장이 가능하다.
 - 배치로 READ 하는 것이 가능하며, 이 배치 작업은 직렬, 병렬로 처리가 가능하다. (Policy로 정할 수 있음)
 
 ## 커뮤니티 버전 Aerospike 제약
