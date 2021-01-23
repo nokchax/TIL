@@ -7,7 +7,7 @@
 
 ## 1월 넷째 주 (24 ~ 30)
 - [ ] Real MySQL
-- [ ] Kotlin
+- [ ] [Kotlin](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
 ## 1월 셋째 주 (17 ~ 23)
 - [x] 회사 업무 마무리, 인수인계
