@@ -6,7 +6,7 @@
 # 1/4 분기
 
 ## 2월 첫째 주 (31 ~ 6)
-- [ ] Ruby study
+- [x] Ruby study
 
 ## 1월 넷째 주 (24 ~ 30)
 - ~~[ ] Real MySQL~~
