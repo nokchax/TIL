@@ -4,6 +4,11 @@
 
 ---
 # 1/4 분기
+## 2월 둘째 주 (7 ~ 13)
+- [ ] ruby study
+- [ ] rails study
+- [ ] batch implements
+
 
 ## 2월 첫째 주 (31 ~ 6)
 - [x] Ruby study
