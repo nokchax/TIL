@@ -5,8 +5,11 @@
 ---
 # 1/4 분기
 
+## 2월 넷째 주 (21 ~ 27)
+- [ ] programming ruby study (50p)
+
 ## 2월 셋째 주 (14 ~ 20)
-- [ ] programming ruby study (100p?)
+- [x] programming ruby study ~(100p?)~
 
 ## 2월 둘째 주 (7 ~ 13)
 - [x] ruby study
