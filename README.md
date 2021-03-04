@@ -5,7 +5,7 @@
 ---
 # 1/4 분기
 ## 3월 첫째 주 (1~7)
-- [ ] programming ruby study (50p)
+- [x] programming ruby study (50p)
 
 
 ## 2월 넷째 주 (21 ~ 27)
