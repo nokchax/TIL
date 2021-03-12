@@ -5,7 +5,7 @@
 ---
 # 1/4 분기
 ## 3월 둘째 주 (8~14)
-- [ ] perfect ruby on rails (ch01)
+- [x] perfect ruby on rails (ch01)
 - [x] algorithm
 
 ## 3월 첫째 주 (1~7)
