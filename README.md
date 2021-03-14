@@ -8,6 +8,7 @@
 - [ ] perfect ruby on rails (ch02)
 - [ ] programming ruby study
 - [ ] algorithm
+- [ ] macbook air setting
 
 ## 3월 둘째 주 (8~14)
 - [x] perfect ruby on rails (ch01)
