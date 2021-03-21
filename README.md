@@ -5,9 +5,9 @@
 ---
 # 1/4 분기
 ## 3월 셋째 주 (15~21)
-- [ ] perfect ruby on rails (ch02)
+- ~~[ ] perfect ruby on rails (ch02)~~
 - [x] programming ruby study
-- [ ] algorithm
+- ~~[ ] algorithm~~
 - [x] macbook air setting
 
 ## 3월 둘째 주 (8~14)
