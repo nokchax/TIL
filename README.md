@@ -6,8 +6,10 @@
 # 1/4 분기
 ## 3월 넷째 주 (22~28)
 - [ ] 인프라 공방 사전 공부 (linux 명령어, OSI 7계층)
-- [ ] programming ruby
-- [ ] perfect ruby on rails
+- [ ] ~~programming ruby~~
+- [ ] ~~perfect ruby on rails~~
+- [ ] node
+- [ ] kubernetes
 
 ## 3월 셋째 주 (15~21)
 - ~~[ ] perfect ruby on rails (ch02)~~
