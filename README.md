@@ -4,6 +4,10 @@
 
 ---
 # 1/4 분기
+## 3월 다섯째 주 (29~4/4)
+- [ ] 인프라 공방 시작
+- [ ] docker, redis, kubernetes
+
 ## 3월 넷째 주 (22~28)
 - [x] 인프라 공방 사전 공부 (linux 명령어, OSI 7계층)
 - [ ] ~~programming ruby~~
