@@ -4,6 +4,10 @@
 - [2021 1/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-first-quarter.md)
 ---
 # 2/4 분기
+## 5월 첫째 주 (5/3 ~ 5/9)
+- [ ] 루비, 레일즈 스터디
+- [ ] 인프라 공방 복습 계속
+
 ## 4월 넷째 주 (5/26 ~ 5/2)
 - [x] 인프라 공방 마무리
 - [x] 1주차 복습
