@@ -4,6 +4,10 @@
 - [2021 1/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-first-quarter.md)
 ---
 # 2/4 분기
+## 6월 넷째 주 (6/21 ~ 6/26)
+- [ ] 리뷰어 활동 마지막 주
+
+
 ## 6월 셋째 주 (6/14 ~ 6/19)
 - [x] 리뷰어 활동
 - [x] 백신 접종, 휴식
