@@ -5,3 +5,7 @@
 - [2021 2/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-second-quarter.md)
 ---
 
+# 2/4 분기
+## 7월 둘째 주 (7/12 ~ 7/19)
+- [ ] kotlin api doc 번역
+- [ ] tdd clean code 준비
