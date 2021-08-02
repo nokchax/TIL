@@ -6,6 +6,9 @@
 ---
 
 # 2/4 분기
+## 8월 첫째 주 (8/2 ~ 8/8)
+- [ ] TDD, CleanCode Java 과정 마무리
+
 ## 7월 둘째 주 (7/12 ~ 7/19)
 - [ ] kotlin api doc 번역
 - [ ] tdd clean code 준비
