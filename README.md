@@ -6,11 +6,15 @@
 ---
 
 # 2/4 분기
+## 8월 둘째 주 (8/9 ~ 8/15)
+- [ ] kotlin in action 3장
+
 ## 8월 첫째 주 (8/2 ~ 8/8)
 - [x] TDD, CleanCode Java 과정 마무리
 - [ ] TDD< CleanCode Java 과정 정리, 
 - [x] Kotlin 공부 재시작
-- [x] kotllin in action 1장
+- [x] kotlin in action 1장
+- [x] kotlin in action 2장 (코틀린 기초)
 
 ## 7월 둘째 주 (7/12 ~ 7/19)
 - [ ] ~~kotlin api doc 번역~~
