@@ -8,7 +8,8 @@
 # 2/4 분기
 ## 8월 둘째 주 (8/9 ~ 8/15)
 - [x] kotlin in action 3장
-- [ ] kotlin in action 4장
+- [ ] 
+- ~~[ ] kotlin in action 4장~~
 
 ## 8월 첫째 주 (8/2 ~ 8/8)
 - [x] TDD, CleanCode Java 과정 마무리
