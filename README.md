@@ -7,7 +7,7 @@
 
 # 2/4 분기
 ## 8월 셋째 주 (9/16 ~ 8/22)
-- [ ] kotlin in action 4장
+- [x] kotlin in action 4장
 - [ ] 네트워크
 - [ ] jwp 훑어보기
 
