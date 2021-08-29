@@ -4,8 +4,10 @@
 - [2021 1/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-first-quarter.md)
 - [2021 2/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-second-quarter.md)
 ---
+# 3/4 분기
+## 9월 첫째 주 (8/30 ~ 9/5)
+- [ ] kotlin in action 5장
 
-# 2/4 분기
 ## 8월 넷째 주 (8/23 ~ 8/29)
 - [ ] ~~kotlin in action 5장~~ busy
 - [x] 알고리즘 코틀린으로 풀기
