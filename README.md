@@ -6,7 +6,7 @@
 ---
 # 3/4 분기
 ## 9월 첫째 주 (8/30 ~ 9/5)
-- [ ] kotlin in action 5장
+- [x] kotlin in action 5장
 
 ## 8월 넷째 주 (8/23 ~ 8/29)
 - [ ] ~~kotlin in action 5장~~ busy
