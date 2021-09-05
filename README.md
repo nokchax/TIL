@@ -5,6 +5,9 @@
 - [2021 2/4 archive](https://github.com/nokchax/TIL/blob/master/archive/2021-second-quarter.md)
 ---
 # 3/4 분기
+## 9월 첫째 주 (9/6 ~ 9/11)
+- [ ] kotlin in action 7장
+
 ## 9월 첫째 주 (8/30 ~ 9/5)
 - [x] kotlin in action 5장
 - [x] kotlin in action 6
